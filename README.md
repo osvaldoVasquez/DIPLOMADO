@@ -1,4 +1,5 @@
 Integrantes:
 
 OSVALDO VASQUEZ
+/N
 JAIME PANTOJA
